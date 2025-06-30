@@ -10,7 +10,7 @@ This repository provides the implementation for our paper:
 ## 📂 Code Structure
 
 - `DRO/` — Contains implementation of **regularized f-DRO** plus Life expectancy data we used during experiment.
-- `Phase_Retrieval/` — Contains code for **phase retrieval experiments**.
+- `Phase_retrieval/` — Contains code for **phase retrieval experiments**.
 - `Deep_Learning.` - Contains training codes for ResNet18/50 over CIFAR-10
 
 
