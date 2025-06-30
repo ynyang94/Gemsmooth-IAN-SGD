@@ -11,7 +11,7 @@ This repository provides the implementation for our paper:
 
 - `DRO/` — Contains implementation of **regularized f-DRO** plus Life expectancy data we used during experiment.
 - `Phase_retrieval/` — Contains code for **phase retrieval experiments**.
-- `Deep_Learning.` - Contains training codes for ResNet18/50 over CIFAR-10
+- `Deep_Learning/` - Contains training codes for ResNet18/50 over CIFAR-10
 
 
 ## 🔗 Acknowledgements
